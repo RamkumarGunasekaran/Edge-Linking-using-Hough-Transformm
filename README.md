@@ -26,6 +26,9 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 ## Input image and grayscale image
 ```
+Developed By: Ramkumar G
+Reg No: 212223220084
+
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
